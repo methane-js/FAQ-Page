@@ -36,8 +36,8 @@ It is the view in mobiles.
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/responsive-faq-page-using-javascript-qEzMWjtLGN)
+- Live Site URL: [Vercel](https://faq-page-sigma.vercel.app)
 
 ## My process
 
